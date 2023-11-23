@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Loser987
-- 👀 I’m interested in Video Game Creation And Modding
-- 🌱 I’m currently learning To animate and make games
 
 ._.
 
